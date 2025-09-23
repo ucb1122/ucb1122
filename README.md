@@ -3,10 +3,10 @@
 ## Information 
 
 ```
-Name = 'Heeheon Jin';
-Major = 'Cognitive Science';
-University = 'xx';
-Degree = 'B.A. (Class of 2025)'
+Name = "Heeheon Jin";
+Major = "Cognitive Science";
+University = "go bears!";
+Degree = "B.A. (Class of 2025)";
 ```
 
 ## Stacks

@@ -10,10 +10,10 @@
 ## ABOUT ME
 
 ```
-  진희헌
-nationality = 대한민국
-birthDate = 0000.00.00; // PRIVATE
-major = 인지과학
+name = "진희헌";
+nationality = "대한민국";
+birthDate = 00000000; // PRIVATE
+major = "인지과학";
 university = "go bears!"; 
 degree = "B.A. (Class of 2025)";
 ```

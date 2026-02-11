@@ -11,9 +11,9 @@
 ```
 name = "진희헌";
 nationality = "대한민국";
-birthDate = 00000000; // PRIVATE
-major = "인지과학";
-university = "go bears!"; 
+birthDate = 1995.11.20;
+major = "Cognitive Science";
+university = "UC Berkeley"; 
 degree = "B.A. (Class of 2025)";
 ```
 
